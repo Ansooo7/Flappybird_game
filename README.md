@@ -4,5 +4,5 @@ A simple browser-based clone of the classic Flappy Bird game built using HTML, C
 # 🚀 Demo
 Play the game [here](#) *(https://ansooo7.github.io/Flappybird_game/)*
 
-![Gameplay Screenshot](screenshots/gameplay.png)
+![Gameplay Screenshot](https://github.com/Ansooo7/Flappybird_game/blob/main/Screenshot%202025-10-30%20225700.png?raw=true)
 
